@@ -1,0 +1,48 @@
+VCS/SCM :
+
+
+git : distributed version controlling system
+
+
+
+centralized VCS:
+
+   central repository
+
+user 1   user 2  user 3
+
+
+distributed vcs :
+
+
+           central repository{Remote Repo}[ABC]
+           
+     user 1 - A   user 2 [A/B]  user 3 [AB/C]     
+     
+     
+     git : it is distributes VCS/SCM
+     
+     there are multiple implementations for git - git hub, bit bucket, azure repos   etc.
+     
+     
+     
+     
+     
+     git commands
+     ============
+     
+     git clone : to take the repo from the remote location to local
+
+
+v.0
+red
+
+v.1
+yellow
+
+v.2
+green
+
+
+v.3
+back to red 

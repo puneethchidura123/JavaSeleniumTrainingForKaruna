@@ -1,0 +1,14 @@
+package JavaOperators;
+
+public class Logical_Operators_Demo1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		boolean a =true,b=true;
+		
+		System.out.println(a && b);
+
+	}
+
+}

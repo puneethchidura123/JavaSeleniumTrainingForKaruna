@@ -1,0 +1,14 @@
+operatord : these are used to perform various operations on variables
+
+1) Arithmetic Operators :
+
+
+int x = 10,y=6;
+
+A) Addition   : to add any two variables;
+B) Substraction
+C) Multiplication
+D) Division
+E) Modulus :
+F) Increment
+G) Decrement : 

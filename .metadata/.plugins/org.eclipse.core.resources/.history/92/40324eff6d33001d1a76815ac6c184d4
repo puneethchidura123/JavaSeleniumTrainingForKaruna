@@ -1,0 +1,44 @@
+operators : these are used to perform various operations on variables
+
+1) Arithmetic Operators :
+
+
+int x = 10,y=6;
+
+A) Addition   : to add any two variables; x+y = 16
+B) Subtraction : to subtract two variables : x-y :4; 
+C) Multiplication  :  x*y = 60;
+D) Division : x/y = 1
+E) Modulus : x%y=4
+F) Increment : x++ // 11, y++ //7
+G) Decrement : x--//9,y--//5
+
+
+2) Assignment Operators : these are used to assign values to the variables
+
+A) = : x=90;
+B)+= : x+=10;  //{x=x+10}
+C)-= :x-=10; //{x=x-10}
+D)*= :x*=10 //{x=x*10}
+E)%= : x%=10  //{x=x%10}
+
+
+order of evaluation : right to left
+
+
+3) Comparison Operators : these are used to compare the values among variables
+
+Note : result of the comparison operators is always of boolena data type.
+int a=1,b=2;
+
+A) ==  :  a==b // 
+
+
+
+
+
+		
+		
+		
+	
+right to left

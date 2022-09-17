@@ -1,0 +1,16 @@
+package JavaOperators;
+
+public class Arithematic_Operators_Demo1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		int x=10,y=7;
+		
+		//addition
+		System.out.println(x+y);
+
+	}
+
+}

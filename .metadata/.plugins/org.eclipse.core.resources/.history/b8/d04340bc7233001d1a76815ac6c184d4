@@ -1,0 +1,47 @@
+Strings : this a non primitive data type. strings are used for storing and processing text
+
+// string declaration
+
+String name = "karuna K";
+
+
+String name = new String();
+name = "karuna K";
+
+note : String is a class in java.
+
+
+
+// to find length of string
+String name = "karuna K";
+
+name.length(); //8
+
+// to convert a string to upper case
+
+.toUpperCase();
+
+name.toUpperCase();  // KARUNA K
+
+
+// to convert a string to lower case
+
+.toLowerCase();
+
+name.toLowerCase();  // karuna k
+
+// to find index of a specific characecter
+
+
+.indexOf();
+
+name.indexOf(a); //1
+
+
+
+String Concatenation : combining/ adding
+
+
+
+
+other methods are available at “https://www.w3schools.com/java/java_ref_string.asp”

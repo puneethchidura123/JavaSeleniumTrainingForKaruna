@@ -1,0 +1,30 @@
+VCS/SCM :
+
+
+git : distributed version controlling system
+
+
+
+centralized VCS:
+
+   central repository
+
+user 1   user 2  user 3
+
+
+distributed vcs :
+
+
+
+v.0
+red
+
+v.1
+yellow
+
+v.2
+green
+
+
+v.3
+back to red 

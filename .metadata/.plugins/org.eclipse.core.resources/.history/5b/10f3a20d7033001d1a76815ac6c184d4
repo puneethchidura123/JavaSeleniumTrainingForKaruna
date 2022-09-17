@@ -1,0 +1,5 @@
+Strings : this a non primitive data type. strings are used for storing and processing text
+
+// string declaration
+
+String name = "karuna K";

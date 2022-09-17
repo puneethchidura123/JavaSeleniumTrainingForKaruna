@@ -1,0 +1,28 @@
+package JavaOperators;
+
+public class Arithematic_Operators_Demo1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		int x=10,y=7;
+		
+		//addition
+		System.out.println(x+y);
+		//substraction
+		System.out.println(y-x);
+		//multiplication
+		System.out.println(x*y);
+		//division
+		System.out.println(x/y);
+		//modulus
+		System.out.println(x%y);
+		//increment
+		//System.out.println(x++);
+		x++;
+		System.out.println(x);
+
+	}
+
+}

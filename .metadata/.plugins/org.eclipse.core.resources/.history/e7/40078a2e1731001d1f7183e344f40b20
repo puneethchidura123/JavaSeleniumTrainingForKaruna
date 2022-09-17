@@ -1,0 +1,10 @@
+package DataTypes.TypeCasting;
+
+public class Narrowing_And_Widening {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
