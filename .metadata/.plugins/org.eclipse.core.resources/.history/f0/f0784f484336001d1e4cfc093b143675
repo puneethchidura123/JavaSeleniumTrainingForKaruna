@@ -1,0 +1,38 @@
+package ConditionalStatements;
+
+public class Switch_Demo1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		int month = 4;
+
+
+		switch(month)
+		{
+		case 1:
+		sysout("jan");
+		break;
+
+		case 2:
+		sysout("feb");
+		break;
+
+		case 3:
+		sysout("mar");
+		break;
+
+		case 4:
+		sysout("apr");
+		break;
+
+
+		default :
+		sysout("please check u r input");
+		break;
+
+		} 
+	}
+
+}

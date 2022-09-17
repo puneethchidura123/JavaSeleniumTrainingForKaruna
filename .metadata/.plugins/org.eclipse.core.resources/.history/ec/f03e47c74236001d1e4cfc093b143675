@@ -1,0 +1,78 @@
+
+
+if :  this is used to verify a single conditional and print the response accordingly.
+
+
+
+
+if(condition)
+{
+// code to execute if condition is executed to "true"
+}
+
+
+
+
+int age = 54;
+
+
+if(age >=18)
+{
+sysout("this person is eligible for voting");
+}
+
+
+
+if .. else :  this is used to verify a single condition and print some response if condition is evaluated to true and print some another response if the condition is evaluated to false
+
+
+if(condition)
+{
+// code to execute if condition is executed to "true"
+}
+else
+{
+// code to execute if condition is executed to "false"
+}
+
+
+
+else... if :   this is used to evaluate multiple conditions and print the results according
+
+
+
+if(condition 1)
+{
+// code to execute if condition 1 is executed to "true"
+}
+else if(condition 2)
+{
+// code to execute if condition 2 is executed to "true"
+}
+else if(condition 3)
+{
+// code to execute if condition 3 is executed to "true"
+}
+.
+.
+.
+.
+.
+else
+{
+// code to execute if none of the conditions is executed to "true"
+} 
+
+
+
+
+switch statement :  
+
+
+
+
+int month = 
+ 
+ 
+ 
+ 

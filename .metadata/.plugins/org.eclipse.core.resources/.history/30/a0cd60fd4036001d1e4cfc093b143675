@@ -1,0 +1,22 @@
+
+
+if :  this is used to verify a single conditional and print the response accordingly.
+
+
+
+
+if(condition)
+{
+// code to execute if condition is executed to "true"
+}
+
+
+
+
+int age = 54;
+
+
+if(age >=18)
+{
+sysout("this person is eligible for voting");
+}

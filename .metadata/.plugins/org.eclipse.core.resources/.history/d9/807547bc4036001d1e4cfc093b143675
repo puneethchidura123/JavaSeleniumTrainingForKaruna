@@ -1,0 +1,12 @@
+package ConditionalStatements;
+
+public class If_Conditional_Statement_Demo1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int Age = 34;
+		
+	}
+
+}
