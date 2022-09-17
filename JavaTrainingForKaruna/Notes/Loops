@@ -1,0 +1,66 @@
+loops : when we wanted to do a repeated execution based on a conditon/s the loops is the best idea
+
+
+
+1)For Loop
+2) While Loop
+3) Do while Loop
+4) For each OR enhanced for loop  : we shall discuss this after arrays. 
+
+
+
+For Loop :
+
+
+for(initialization;condition;increment/decrement)
+{
+
+// body of the loop
+
+}
+
+
+
+
+
+break  :  this is used to stop the execution of the loop
+
+continue :  this is used to skip the execution of the loop cycle 
+
+
+
+// to print numbers from 1 to 20
+
+for(int i =1;i<=20;i++)
+{
+sysout(i);
+} 
+
+
+
+
+while loop :
+
+
+this is an entry controlled loop. first condition is checked and if the condition is passed then loop body is executed
+while(condition)
+{
+//body of the loop
+}
+
+
+
+do while loop :
+
+
+this is an exit controlled loop. first the body of the loop is executed then the conditon is evaluated. if the condition is passed the the loop body will repeat
+
+
+do
+{
+// body of the loop
+}while(condition);
+
+
+
+
