@@ -53,10 +53,6 @@ distributed vcs :
      
      push : to move the commited changes from local to the remote : git push
      pull : to take the changes from remote to local. : git pull
-     
-     
-     
-     branching  : 
       
      
      
@@ -74,8 +70,3 @@ green
 
 v.3
 back to red 
-
-
-
-
-

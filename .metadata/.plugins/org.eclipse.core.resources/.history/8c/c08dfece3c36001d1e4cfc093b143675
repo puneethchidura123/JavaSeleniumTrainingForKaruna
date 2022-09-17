@@ -40,23 +40,6 @@ distributed vcs :
      once the chages are ready in our local
      
      1) Add the changes to the staging area in local repo :  git add .
-     2)commit all the changes added to the staging area : git commit -m "my first commit as on 17 sep 2022"
-     3) push all the commited changes : git push
-     
-     
-     pull : it is used to take the updates from the remote to the local.  : git pull
-     
-     
-     
-     differences between push and pull
-     =================================
-     
-     push : to move the commited changes from local to the remote : git push
-     pull : to take the changes from remote to local. : git pull
-     
-     
-     
-     branching  : 
       
      
      
@@ -74,8 +57,3 @@ green
 
 v.3
 back to red 
-
-
-
-
-

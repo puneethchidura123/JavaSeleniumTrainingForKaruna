@@ -44,19 +44,7 @@ distributed vcs :
      3) push all the commited changes : git push
      
      
-     pull : it is used to take the updates from the remote to the local.  : git pull
-     
-     
-     
-     differences between push and pull
-     =================================
-     
-     push : to move the commited changes from local to the remote : git push
-     pull : to take the changes from remote to local. : git pull
-     
-     
-     
-     branching  : 
+     pull : 
       
      
      
@@ -74,8 +62,3 @@ green
 
 v.3
 back to red 
-
-
-
-
-
