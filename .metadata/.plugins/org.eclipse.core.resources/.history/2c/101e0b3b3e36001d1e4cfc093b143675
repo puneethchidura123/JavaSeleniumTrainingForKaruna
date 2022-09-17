@@ -57,12 +57,6 @@ distributed vcs :
      
      
      branching  : 
-     
-     git branch : this will show the list of branches with an astreik on the current branch.
-     
-     git checkout <branch name> : this is to move from current branch to the specified branch
-     
-     
       
      
      
