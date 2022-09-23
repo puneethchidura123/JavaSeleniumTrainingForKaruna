@@ -64,3 +64,18 @@ do
 
 
 
+For Each loop :  this like a for loop but only applicable for array and collections .
+
+
+for(<data type> <variable>:<array name>)
+{
+
+// body of the loop
+
+}
+
+
+
+
+
+

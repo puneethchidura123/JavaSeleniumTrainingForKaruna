@@ -1,0 +1,118 @@
+OOPS : object oriented programing
+
+
+Class : it is a template for creating objects
+Object : is an instance of a class
+
+
+ex :
+
+Class : CAR
+
+Objects : BMW, AUDI,FERRAI etc...
+
+
+Class : Loops
+
+
+
+Objects : For, do while, while, for each .
+
+
+Class : Fruits
+
+Objects : Mango, Orange, Apple, Kiwi, Papaya....etc
+
+
+
+creating objects for class :
+
+
+<class_name> <object_name> = new <class_name>();
+
+
+
+class attributes : the properties of the class objects
+
+ex : color,engine type, brand, no of wheels, type etc...
+
+two types of attributes :
+
+
+1) Static  : the property which is common across all object of class : company_name, company_address
+2) Instance :  the property which is not common across all object of class : emp id, emp name etc..
+
+
+note : static/instance variables should be declared inside the calss and outside of methods
+
+
+class methods : the actions performed by the objects of the class 
+
+ex : start, stop, change gear, apply brakes etc...
+
+two types of methods :
+
+1) Static  : the actions which are common across all object of class : login(), logout()
+2) Instance :  the actions which are not common across all object of class : conduct meetings(),test(),write code(),
+
+
+
+
+Constructors : these are special methods in java. these ae executed when an object of class is created. Name of the constructor should be same as the name of class
+
+
+
+
+Access Modifiers :  these ae used for setting up the access levels or all memebers of class [variables,methods, constructors etc.]
+
+
+public : it can be accessed any where keyword : public
+private : it can be accessed only in the declared class|  keyword : Private
+default : it can be accessed only in the same package|  keyword : na
+protected : it can be accessed only in the same package and other package too but with in a sub class|  keyword : protected
+
+
+
+
+Encapsulation : mechanism of wrapping variables and methods into a single unit. 
+ex : classes
+
+
+Packages :
+
+Inheritance :   this is for reusability
+
+Parent class : class which is beging inherited
+
+Child Class : class which inherits
+
+
+
+Polymorphism : making one entity appear in different forms
+
+overloading :  writing multiple entites in same class with different signatures
+
+overriding :  writing 2 entites one in  parent class  other  in  child class with same signatures
+
+
+
+Abstraction : it is the process of hiding certain details and showing only the necessary details
+
+1) Abstract Classes  :
+
+keyword : extends
+
+2) Interfaces : 
+
+
+keyword : implements
+
+keyword : abstract
+
+
+
+
+
+
+
+

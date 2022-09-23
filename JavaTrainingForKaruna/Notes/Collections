@@ -1,0 +1,71 @@
+
+
+Collection : when we want to store multiple elements belonging to diffrent types we can go for collections.
+
+
+
+
+4 important interfaces in collections
+
+
+
+1)List(I)
+
+
+a) child interface of collection
+b) it allows duplicates
+c) it will preserve the order of insertion
+
+Implementation Classes :
+
+ArrayList(c) :
+
+LinkedList(c) :
+
+
+
+2)Set(I)
+
+
+a) child interface of collection
+b) will not allows duplicates
+c) will not  will preserve the order of insertion
+
+
+
+HashSet(c)  : will not preserve the order of insertion
+
+LinkedHashSet(c)  : will  preserve the order of insertion
+
+
+
+
+
+
+3)Queue : 
+
+a) child interface of collection
+
+
+4)Map(I)
+
+
+a) not a child interface of collection
+b)data is stored in the form of key value pairs.
+c) Each entry is key value pair
+
+
+student
+
+name,"karuna"
+coountry,"canada"
+
+
+HashMap :
+ order of insertion is not preserved
+ duplicate keys are not allowed but duplicate values are allowed
+ 
+ 
+
+HashTable :
+

@@ -1,0 +1,37 @@
+Arrays : these are used to store multiple values of a specific data type in a single variable
+
+
+declaration of array :
+
+int[] interger_array = {1,2,8,9,5};
+
+int[] integer_array = new int[5];
+
+
+char[] character_array = new char[5];
+
+
+Accessing arrays : to access the data in array we should use the index of the elements
+
+
+ int[] interger_array = {1,2,8,9,5};
+ 
+ 
+ interger_array[0];
+ 
+ 
+ interger_array[4];
+ 
+ 
+ maximum index of an array = legth of array -1;
+ 
+ 
+ Array_Name.length :: this will return the length of the array.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
