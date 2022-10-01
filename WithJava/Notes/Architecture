@@ -1,0 +1,9 @@
+
+
+1)Selenium java if complied successfully ot will be converted to a JSON payload and sent to the server (browser driver)
+
+2) Now the browser driver will receive the JSON payload and it will covert the payload into instruction and pass to the browser
+
+3)browser will receive the instructions from browser driver and executed them
+
+4) the auomation execution is visible on UI 

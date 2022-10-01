@@ -1,0 +1,42 @@
+
+
+Locator : these are used to identify webelements.
+
+
+
+1)Id
+2)Name
+3)ClassName
+4)Link text
+5)Partial Link text
+6)Tag name
+7)Xpath
+8)Css selector
+
+
+
+
+toranto/name : karuna,id = '123'
+toranto/name : karuna,id = '234'
+
+
+//person[name : karuna && id = '123']
+
+
+
+Xpath ::  
+
+
+//*[@id='customer_menu_top']/li/a
+
+//*[@id='categorymenu']/nav/ul/li[1]/a
+
+//*[@id='categorymenu']/nav/ul/li[8]/a 
+
+
+
+
+
+
+
+
